@@ -6,7 +6,7 @@ import datetime
 import telebot
 import sqlite3 
 
-API_TOKEN = '6077941896:AAFzfMFGMhBH10y8odpC2_wPl8nIkix-mb4'
+API_TOKEN = ''
 
 bot = telebot.TeleBot(API_TOKEN)
 
